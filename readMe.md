@@ -7,7 +7,7 @@ Standard loss just minimizes prediction error. Regularization adds a penalty on 
 - **Ridge (L2):** `Loss = MSE + λ·Σw²` — shrinks weights, keeps all features
 - **Lasso (L1):** `Loss = MSE + λ·Σ|w|` — drives weak weights to zero, selects features
 
-`λ` is set by hand. Higher = simpler model. Experiment is finding the sweet spotand if regularization actually helps the model 
+`λ` is set by hand. Higher = simpler model. Experiment is finding the sweet spot and if regularization actually helps the model 
 
 ## Datasets
 | Model       | Dataset            | Load via                                    |
