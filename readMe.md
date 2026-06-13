@@ -1,6 +1,13 @@
 # Supervised Learning — From Scratch
 
-Building **linear** and **logistic regression** from the ground up using only NumPy. No sklearn estimators — all gradient descent implemented manually.
+Building **linear regression**, **logistic regression**, and a **neural network** from the ground up using only NumPy. No sklearn estimators — all gradient descent implemented manually.
+
+## Notebooks
+
+| Notebook | Contents |
+|----------|---------|
+| [script.ipynb](script.ipynb) | Linear regression, Ridge/Lasso, feature engineering, learning rate search, logistic regression |
+| [neuralNetworks.ipynb](neuralNetworks.ipynb) | Neural network from scratch — width/depth experiments, forward pass vs backprop, comparison with logistic regression |
 
 ## Contents
 
